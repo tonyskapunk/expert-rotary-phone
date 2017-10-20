@@ -1,2 +1,2 @@
 # expert-rotary-phone
-(tonyskapunk)[https://github.com/tonyskapunk]
+[tonyskapunk](https://github.com/tonyskapunk)
